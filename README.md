@@ -7,8 +7,7 @@ sql server;
 
 jdk 1.8
 
-=============================================
- 9.5 điểm
+
 * Demo detail: https://www.youtube.com/watch?v=2n3VJmvniZU
 ##### Connect me via: phucvinh710@gmail.com
 
